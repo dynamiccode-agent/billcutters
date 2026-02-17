@@ -11,9 +11,9 @@ export default defineConfig({
       '/api': {
         target: 'http://localhost:3001',
         changeOrigin: true,
-        configure: (proxy, options) => {
+        configure: (proxy) => {
           // Fallback mock responses if backend isn't running
-          proxy.on('error', (err, req, res) => {
+          proxy.on('error', () => {
             console.log('API proxy error - using fallback responses')
           })
         }
