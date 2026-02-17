@@ -1,7 +1,7 @@
-# Avante Partners Website Rebuild - Project Summary
+# Australian Bill Cutters Website Rebuild - Project Summary
 
 ## Overview
-Complete rebuild of the Avante Partners website with a modern React/TypeScript stack, improved UX, and conversion-focused copy.
+Complete rebuild of the Australian Bill Cutters website with a modern React/TypeScript stack, improved UX, and conversion-focused copy.
 
 **Local Dev Server:** http://localhost:5173/
 
@@ -239,7 +239,7 @@ Output: `dist/` directory
 
 ## Conclusion
 
-The new Avante Partners website is a complete transformation — from an outdated, generic site to a modern, conversion-focused digital presence that:
+The new Australian Bill Cutters website is a complete transformation — from an outdated, generic site to a modern, conversion-focused digital presence that:
 
 1. **Builds Trust** - Through credentials, experience, and transparency
 2. **Communicates Clearly** - Outcome-focused messaging
@@ -247,7 +247,7 @@ The new Avante Partners website is a complete transformation — from an outdate
 4. **Performs Well** - Fast, mobile-friendly, accessible
 5. **Easy to Maintain** - Modern tech stack, clean code
 
-Ready for deployment and positioned to generate qualified leads for Avante Partners.
+Ready for deployment and positioned to generate qualified leads for Australian Bill Cutters.
 
 ---
 

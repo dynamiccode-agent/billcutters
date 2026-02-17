@@ -18,7 +18,7 @@ export default function Navigation() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold text-gray-900">
-              Avante <span className="text-primary-600">Partners</span>
+              Australian Bill Cutters <span className="text-primary-600">Partners</span>
             </h1>
           </div>
 

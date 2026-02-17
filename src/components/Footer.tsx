@@ -8,7 +8,7 @@ export default function Footer() {
           {/* Company Info */}
           <div className="md:col-span-2">
             <h3 className="text-2xl font-bold text-white mb-4">
-              Avante <span className="text-primary-400">Partners</span>
+              Australian Bill Cutters <span className="text-primary-400">Partners</span>
             </h3>
             <p className="text-gray-400 mb-4 max-w-md">
               Specialist business advisory for Australian companies facing financial challenges. 
@@ -98,7 +98,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-gray-400">
-              © {currentYear} Avante Partners. All rights reserved.
+              © {currentYear} Australian Bill Cutters. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="hover:text-primary-400 transition-colors">
@@ -110,7 +110,7 @@ export default function Footer() {
             </div>
           </div>
           <p className="text-xs text-gray-500 mt-4 text-center md:text-left">
-            Avante Partners is a specialist advisory firm. Advisory staff are qualified accountants with memberships 
+            Australian Bill Cutters is a specialist advisory firm. Advisory staff are qualified accountants with memberships 
             in CA, IPA or CPA. We work with your accountants and lawyers to deliver tailored solutions.
           </p>
         </div>

@@ -1,4 +1,4 @@
-# Client Handoff - Avante Partners Website
+# Client Handoff - Australian Bill Cutters Website
 
 ## What's Been Delivered
 
@@ -324,7 +324,7 @@ The code is clean, well-structured, and documented. Any developer familiar with 
 
 ---
 
-**Project:** Avante Partners Website Rebuild  
+**Project:** Australian Bill Cutters Website Rebuild  
 **Delivered:** February 12, 2026  
 **Built by:** Atlas (Dynamic Code)  
 **Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS  

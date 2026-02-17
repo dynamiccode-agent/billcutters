@@ -31,8 +31,8 @@ export default function Chatbot() {
   const getChatResponse = async (userMessage: string, history: Message[]): Promise<string> => {
     const conversationCount = Math.floor(history.filter(m => m.role === 'user').length / 2)
     
-    // System context about Avante Partners
-    const context = `You are a helpful assistant for Avante Partners, a specialist business advisory firm in Australia with 31+ years experience. 
+    // System context about Australian Bill Cutters
+    const context = `You are a helpful assistant for Australian Bill Cutters, a specialist business advisory firm in Australia with 31+ years experience. 
 
 Services: Business Restructuring, Cashflow & Debt Management, Voluntary Administration, Capital Raising, Tax Debt Solutions, Small Business Restructure.
 
@@ -166,7 +166,7 @@ Keep responses under 400 characters. Sound human and warm, not corporate. ${conv
                 </svg>
               </div>
               <div>
-                <h3 className="font-semibold">Avante Partners</h3>
+                <h3 className="font-semibold">Australian Bill Cutters</h3>
                 <p className="text-xs text-white/80">Business Advisory</p>
               </div>
             </div>

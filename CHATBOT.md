@@ -31,7 +31,7 @@ The website now includes an AI-powered chatbot that:
 - OpenAI GPT-4o-mini integration
 - 400 character response limit
 - Intelligent fallback responses if API unavailable
-- Context-aware about Avante Partners services
+- Context-aware about Australian Bill Cutters services
 
 ## Setup
 
@@ -97,7 +97,7 @@ After 2-3 messages:
 ### Adjust Response Style
 Edit system prompt in `Chatbot.tsx` (line ~40):
 ```typescript
-const context = `You are a helpful assistant for Avante Partners...`
+const context = `You are a helpful assistant for Australian Bill Cutters...`
 ```
 
 ### Change Conversation Count

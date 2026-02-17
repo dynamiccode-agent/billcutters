@@ -5,7 +5,7 @@
 A mobile-first conversational platform for qualifying energy comparison leads among residential business owners (SOHO - Small Office Home Office).
 
 **Created:** February 17, 2026  
-**Based on:** Avante Partners expert chat template  
+**Based on:** Australian Bill Cutters expert chat template  
 **Target:** Residential customers with ABN looking to switch energy providers
 
 ## Live URL
